@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "Mehranalam-v1.0"
+theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Mehran Alam Beigi"
 paginate = 3
