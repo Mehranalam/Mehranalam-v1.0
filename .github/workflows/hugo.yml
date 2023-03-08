@@ -39,6 +39,8 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
+      - name: output
+        run: git fetch
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
