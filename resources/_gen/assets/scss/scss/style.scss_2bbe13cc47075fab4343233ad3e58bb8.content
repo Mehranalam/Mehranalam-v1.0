@@ -34,9 +34,10 @@ h1, h2, h3 {
     .header {
       padding-bottom: 5px;
       margin-bottom: 40px; } }
-  .header a.header-logo {
+  .header img.header-logo {
     font-weight: bold;
-    margin-right: 30px; }
+    margin-right: 10px;
+    fill: aqua; }
 
 .hamburger-trigger {
   height: 30px;
@@ -84,10 +85,16 @@ h1, h2, h3 {
       transform: translate(-50%, -50%) rotate(-45deg); }
 
 .footer {
-  margin-top: 30px; }
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
   @media (min-width: 767px) {
     .footer {
       padding-top: 40px; } }
+.footer p {
+  text-align: left; }
+
 .social-icon {
   margin-right: 10px; }
   .social-icon a {

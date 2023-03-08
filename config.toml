@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "hugo-winston-theme"
+theme = "Template-Mehran"
 themesDir = "themes"
 title = "Mehran Alam Beigi"
 paginate = 3
@@ -47,3 +47,4 @@ pygmentsUseClasses = true
     identifier = "tags"
     weight = 300
     url = "/tags/"
+

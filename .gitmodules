@@ -4,3 +4,6 @@
 [submodule "themes/mehranalam-v2.0"]
 	path = themes/mehranalam-v2.0
 	url = https://github.com/zerostaticthemes/hugo-winston-theme.git
+[submodule "themes/Template-Mehran"]
+	path = themes/Template-Mehran
+	url = https://github.com/zerostaticthemes/hugo-winston-theme.git
