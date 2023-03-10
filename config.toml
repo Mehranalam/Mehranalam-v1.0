@@ -1,7 +1,5 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "Template-Mehran"
-themesDir = "themes"
 title = "Mehran Alam Beigi"
 paginate = 3
 pygmentsCodeFences = true

@@ -1,0 +1,17 @@
+<div class="footer">
+  <p>This site is Completely <a href="https://github.com/Mehranalam/Mehranalam-v1.0">Open Source</a>.<br>
+    It is made by <b><span style="color:blue">Py</span>thon</b>,<b><span style="color: palevioletred;">Hu</span>go</b>,
+    <b><span style="color: green;">vue</span>.js</b> and maintained by <b><span style="color: black;">Git</span>hub</b>.
+  </p>
+  {{ if .Site.Data.social.links }}
+  <div class="footer-social">
+    {{ range .Site.Data.social.links }}
+    <span class="social-icon social-icon-{{ .name | urlize }}">
+      <a href="{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener">
+        <img src="{{ .image | relURL }}" width="24" height="24" alt="{{ .name }}" />
+      </a>
+    </span>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>

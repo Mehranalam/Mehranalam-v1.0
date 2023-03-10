@@ -279,6 +279,31 @@ ul {
   .intro img {
     max-width: 100%; }
 
+.status {
+  display: flex;
+  flex-direction: column; }
+
+.status .unicode {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; }
+
+.badge {
+  background-color: #7df5f5;
+  color: #2c6161;
+  border-radius: 9px;
+  height: fit-content;
+  font-weight: bold;
+  padding: 7px; }
+
+.badge-Arch {
+  background-color: #f8da2c;
+  color: #a17522;
+  border-radius: 9px;
+  height: fit-content;
+  font-weight: bold;
+  padding: 7px; }
+
 .summary {
   margin-bottom: 50px;
   font-size: 18px;
