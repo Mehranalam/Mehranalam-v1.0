@@ -1,7 +1,11 @@
 ---
-
-
-
+title: what is Singularity?
+date: 2023-03-31
+image: images/Singularity.jpg
+tags:
+   - hawking
+   - physics 
+   - theory
 ---
 
 What Is A Singularity?
