@@ -1,6 +1,7 @@
 ---
 title: what is Singularity?
 date: 2023-03-31
+description: One of the prominent and interesting theories of Stephen Hawking is about the singularity, an interesting and thought-provoking theory at the same time.
 image: images/Singularity.jpg
 tags:
    - hawking
