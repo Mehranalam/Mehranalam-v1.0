@@ -15,3 +15,8 @@ content generator.json :
     "Imagesrc2":"buzzwords-Content-D2022P05.png"
   }
 ```
+
+Todo :
+
+- [ ] Add python script for get RSS feed and show on readme.md.
+- [ ] Transfer from github.io >> Mehranalam.ir
