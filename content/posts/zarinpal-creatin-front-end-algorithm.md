@@ -13,13 +13,13 @@ This website is prepared using only css, html and it does not display well on ot
 
 This project has not yet been completed and unveiled, which should include:
 
-- home page
-- login page
-- developer page
+- [ ] home page
+- [ ] login page
+- [ ] developer page
 
 OK, and the structure of the project directories is as follows:
 
-‍‍``` python
+‍‍```
 .
 ├── assets
 │   ├── fonts
@@ -36,11 +36,16 @@ OK, and the structure of the project directories is as follows:
 ├── index.html
 ├── LICENSE
 ├── README.md
-└── style.css
-
-```
+└── style.css ```
 
 - source code : https://github.com/Mehranalam/Zarinpal-cloning/
 - techologhy for building this : HTML, CSS
 - software: visual studio code, linux, chrome
 
+output in 02.04.2023 :
+
+---
+<img src="https://raw.githubusercontent.com/Mehranalam/Zarinpal-cloning/main/assets/2023-04-02-201120_1366x768_scrot.png">
+<img src="https://raw.githubusercontent.com/Mehranalam/Zarinpal-cloning/main/assets/2023-04-02-201128_1366x768_scrot.png">
+<img src="https://raw.githubusercontent.com/Mehranalam/Zarinpal-cloning/main/assets/2023-04-02-201135_1366x768_scrot.png">
+---
