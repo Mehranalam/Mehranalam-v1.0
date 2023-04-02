@@ -19,6 +19,8 @@ This project has not yet been completed and unveiled, which should include:
 
 OK, and the structure of the project directories is as follows:
 
+
+```json
 .
 ├── assets
 │   ├── fonts
@@ -36,6 +38,7 @@ OK, and the structure of the project directories is as follows:
 ├── LICENSE
 ├── README.md
 └── style.css
+```
 
 
 - source code : https://github.com/Mehranalam/Zarinpal-cloning/
