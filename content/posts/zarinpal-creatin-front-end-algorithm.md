@@ -20,7 +20,7 @@ This project has not yet been completed and unveiled, which should include:
 OK, and the structure of the project directories is as follows:
 
 
-```json
+```java
 .
 ├── assets
 │   ├── fonts
