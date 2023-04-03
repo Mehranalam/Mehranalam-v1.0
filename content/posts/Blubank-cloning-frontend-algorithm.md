@@ -1,10 +1,10 @@
 ---
 
-title: can i build UI of zarinpal.com ?
+title: build UI of blubank website home page
 
 date: 2023-04-2
 
-description: Creating the external UI of the zarinpal service site on the thirteenth day of Badr and checking the logic code and base code of this project.
+description: Creating the external UI of the blu service site on the thirteenth day of Badr and checking the logic code and base code of this project.
 
 image: images/شبیه سازی سایت زرین پال (2).png
 
