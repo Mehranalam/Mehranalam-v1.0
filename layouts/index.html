@@ -6,75 +6,11 @@
 {{ partial "author-large.html" . }}
 {{ end }}
 
-<div class="intro">
-  <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
-  <div class="intro-content">{{ .Content }}</div>
+<div class="shell">
+  <!-- TODO : subset -->
 </div>
 
-<div class="status">
-  <h1>Projects status <span class="dot">.</span></h1>
-  <div class="author">
-    <img width="30" class="author-image" src="{{ .Site.Data.author.image | relURL }}" />
-    <span class="author-name">{{ .Site.Data.author.name }}</span>
-    <span class="author-divider"></span>
-    <span class="author-date">{{ dateFormat "January 2, 2006" .Date }}</span>
-  </div>
-  <div class="unicode">
-    <div>
-      <h2>Bardeal</h2>
-      <p>A store application on the Android platform has a management panel for the store manager to add and remove
-        products and manage the application in the best way by using firebase to register products and register and
-        register store users using the Firebase Auth service <a
-          href="https://firebase.google.com/">https://firebase.google.com/</a></p>
-    </div>
-    <p class="badge">Active</p>
-  </div>
-  <div class="unicode">
-    <div>
-      <h2>Emoji</h2>
-      <p>A Telegram group bot to manage the group to prevent the entry of suspicious and malicious people in order to
-        harm the group by actions such as: spam, scam, ads, etc. (CAPTCHA with Emoji)</p>
-    </div>
-    <p class="badge">Active</p>
-  </div>
-  <div class="unicode">
-    <div>
-      <h2>Blog</h2>
-      <p>A Open Source Blog Build with Vue.js A blog to publish content statically (.MD) This project is developed with
-        the Vue framework <a href="https://vuejs.org/">https://vuejs.org/</a>, which is written under the JavaScript
-        programming language.</p>
-    </div>
-    <p class="badge">Active</p>
-  </div>
-  <div class="unicode">
-    <div>
-      <h2>News Application - Java</h2>
-      <p>A reliable and open source news application by receiving information from CNN <a
-          href="https://edition.cnn.com">https://edition.cnn.com</a> and using
-        the Volley library <a href="https://github.com/google/volley">https://github.com/google/volley</a> to
-        communicate with CNN.</p>
-    </div>
-    <p class="badge">Active</p>
-  </div>
-  <div class="unicode">
-    <div>
-      <h2>HTTPS-Communication (a RestLIB)</h2>
-      <p>This library is actually a shell of cURL and provides CURL features and functions under classes and interfaces
-        for use in Java and Android projects. This library is expected to run on all platforms under the JVM, the CURL
-        <a href="https://curl.se">https://curl.se</a> tool is a platform-independent terminal kit with a long history.
-      </p>
-    </div>
-    <p class="badge">Active</p>
-  </div>
-  <div class="unicode">
-    <div>
-      <h2>Guard Telegram Bot</h2>
-      <p>Telegram usually allows anyone to enter a private chat, the so-called PV, this bot warns the person by sending
-        a message to protect this privacy, and only contacts are allowed to send messages :)</p>
-    </div>
-    <p class="badge-Arch">Archive</p>
-  </div>
-</div>
+
 
 {{ if .Site.Params.showPostsOnHomepage }}
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}

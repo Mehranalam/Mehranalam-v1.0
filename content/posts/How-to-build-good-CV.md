@@ -1,44 +1,43 @@
 ---
 
-title: how to build a good CV?
+title: چگونه یک رزومه عالی بسازیم?
 
-date: 2023-03-31
+date: ۱۴۰۲-۰۳-۴
 
-description: Your CV is the tool that helps you get your foot in the door when applying for jobs. Find out how to write a good CV and get tips and advice on what to include in your own personal marketing document
+description: رزومه شما ابزاری است که به شما کمک می کند در هنگام درخواست شغل، پای خود را به در کنید. بیاموزید که چگونه یک CV خوب بنویسید و نکات و توصیه هایی در مورد مواردی که باید در سند بازاریابی شخصی خود بگنجانید، دریافت کنید
 image: images/Screenshot_20230418_211151_OneDrive.jpg
 
 tags:
 
-   - cv
+   - رزومه‌سازی
 
-   - personal marketing
+   - برندسازی شخصی
 
-   - job
+   - شغل
 
 ---
-## What is a CV?
+## CV چیست؟ 
 
-A CV, which stands for curriculum vitae, is a document used when applying for jobs. It allows you to summarise your education, skills and experience enabling you to successfully sell your abilities to potential employers. Alongside your CV employers also usually ask for a cover letter.
+CV که مخفف رزومه تحصیلی است، مدرکی است که هنگام درخواست شغل استفاده می شود. این به شما امکان می دهد تحصیلات، مهارت ها و تجربیات خود را خلاصه کنید تا بتوانید توانایی های خود را با موفقیت به کارفرمایان بالقوه بفروشید. در کنار رزومه شما، کارفرمایان معمولاً یک نامه پوششی نیز می خواهند.
 
-In the USA and Canada CVs are known as résumés. These documents tend to be more concise and follow no particular formatting rules.
-## How long should a CV be?
+در ایالات متحده و کانادا رزومه ها به عنوان رزومه شناخته می شوند. این اسناد معمولاً مختصرتر هستند و از قوانین قالب بندی خاصی پیروی نمی کنند.
+طول یک رزومه چقدر باید باشد؟
 
-A standard CV in the UK should be no longer than two sides of A4. Take a look at our example of a chronological CV for inspiration.
+یک CV استاندارد در انگلستان نباید بیشتر از دو طرف A4 باشد. برای الهام گرفتن به مثال ما از یک CV زمانی نگاهی بیندازید.
 
-That said one size doesn't fit all. For example, a school leaver or recent graduate with minimal experience may only need to use one side of A4. Although not used as often, a three-page CV might be needed for those in high-level roles or for people who have gained a lot of experience or worked in multiple jobs over the last five to ten years. For example, some medical or academic CVs may be longer depending on your experience. While it's important to keep your CV concise you should also avoid selling your experience short.
+این گفت که یک اندازه برای همه مناسب نیست. به عنوان مثال، یک فارغ التحصیل یا فارغ التحصیل اخیر با حداقل تجربه ممکن است فقط از یک طرف A4 استفاده کند. اگرچه اغلب مورد استفاده قرار نمی گیرد، ممکن است یک CV سه صفحه ای برای کسانی که در نقش های سطح بالا هستند یا برای افرادی که تجربه زیادی کسب کرده اند یا در چندین شغل در طول پنج تا ده سال گذشته کار کرده اند، مورد نیاز باشد. به عنوان مثال، برخی از رزومه های پزشکی یا دانشگاهی ممکن است بسته به تجربه شما طولانی تر باشند. در حالی که مهم است که رزومه خود را مختصر نگه دارید، باید از فروش کوتاه تجربه خود نیز اجتناب کنید.
 
-To save space only include the main points of your education and experience. Stick to relevant information and don't repeat what you've said in your cover letter. If you're struggling to edit your CV ask yourself if certain information sells you. If it doesn't cut it out. If it's not relevant to the job you're applying for delete it and if it's old detail from ten years ago summarise it.
+برای صرفه جویی در فضا فقط نکات اصلی تحصیلات و تجربه خود را در نظر بگیرید. به اطلاعات مرتبط پایبند باشید و آنچه را که در نامه پوششی خود گفته اید تکرار نکنید. اگر در تلاش برای ویرایش CV خود هستید از خود بپرسید که آیا اطلاعات خاصی شما را می فروشد یا خیر. اگر آن را قطع نکرد اگر به شغل مورد نظر شما مربوط نیست، آن را حذف کنید و اگر جزئیات قدیمی مربوط به ده سال پیش است، آن را خلاصه کنید.
+در رزومه چه چیزی باید گنجانده شود؟
 
-## What to include in a CV?
+- اطلاعات تماس: نام کامل، آدرس منزل، شماره موبایل و آدرس ایمیل خود را ذکر کنید. تاریخ تولد شما نامربوط است و نیازی به اضافه کردن عکس ندارید، مگر اینکه برای شغل بازیگری یا مدلینگ درخواست دهید.
 
-- **Contact details**: Include your full name, home address, mobile number and email address. Your date of birth is irrelevant and unless you're applying for an acting or modelling job you don't need to include a photograph.
+- نمایه: نمایه CV بیانیه مختصری است که ویژگی های کلیدی شما را برجسته می کند و به شما کمک می کند تا از دیگران متمایز شوید. معمولاً در ابتدای رزومه قرار می گیرد، در حالی که اهداف شغلی شما را بیان می کند، چند دستاورد و مهارت مرتبط را انتخاب می کند. یک نمایه CV خوب بر روی بخشی که برای آن درخواست می دهید متمرکز است، زیرا نامه پوشش شما مختص شغل خواهد بود. اظهارات شخصی رزومه را کوتاه و سریع نگه دارید - 100 کلمه طول کامل است. نحوه نوشتن بیانیه شخصی برای CV خود را بیابید.
 
-- **Profile**: A CV profile is a concise statement that highlights your key attributes and helps you stand out from the crowd. Usually placed at the beginning of a CV it picks out a few relevant achievements and skills, while expressing your career aims. A good CV profile focuses on the sector you're applying to, as your cover letter will be job-specific. Keep CV personal statements short and snappy - 100 words is the perfect length. Discover how to write a personal statement for your CV.
+- تحصیلات: لیست و تاریخ تمام تحصیلات قبلی، از جمله مدارک حرفه ای. جدیدترین را در ابتدا قرار دهید. نوع/نمرات صلاحیت و تاریخ ها را لحاظ کنید. ماژول های خاص را فقط در موارد مرتبط ذکر کنید.
 
-- **Education**: List and date all previous education, including professional qualifications. Place the most recent first. Include qualification type/grades, and the dates. Mention specific modules only where relevant.
+- تجربه کاری: تجربه کاری خود را به ترتیب تاریخ معکوس فهرست کنید، مطمئن شوید که هر چیزی که ذکر می کنید با شغلی که درخواست می کنید مرتبط باشد. عنوان شغلی، نام شرکت، مدت زمانی که در سازمان بوده‌اید و مسئولیت‌های کلیدی را ذکر کنید. اگر تجربه کاری مرتبط زیادی دارید، این بخش باید قبل از آموزش باشد.
 
-- **Work experience**: List your work experience in reverse date order, making sure that anything you mention is relevant to the job you're applying for. Include your job title, the name of the company, how long you were with the organisation and key responsibilities. If you have plenty of relevant work experience, this section should come before education.
+- مهارت ها و دستاوردها: اینجا جایی است که شما در مورد زبان های خارجی که صحبت می کنید و بسته های IT که می توانید به خوبی استفاده کنید صحبت می کنید. مهارت‌های کلیدی که فهرست می‌کنید باید با شغل مرتبط باشند. توانایی های خود را اغراق نکنید، زیرا باید از ادعاهای خود در مصاحبه حمایت کنید. اگر مهارت‌های خاص شغلی زیادی دارید، باید یک CV مبتنی بر مهارت انجام دهید.
 
-- **Skills and achievements**: This is where you talk about the foreign languages you speak and the IT packages you can competently use. The key skills that you list should be relevant to the job. Don't exaggerate your abilities, as you'll need to back up your claims at interview. If you've got lots of job-specific skills you should do a skills-based CV.
-
-- **Interests**: 'Socialising', 'going to the cinema' and 'reading' aren't going to catch a recruiters attention. However, relevant interests can provide a more complete picture of who you are, as well as giving you something to talk about at interview. Examples include writing your own blog or community newsletters if you want to be a journalist, being part of a drama group if you're looking to get into sales and your involvement in climate change activism if you'd like an environmental job. If you don't have any relevant hobbies or interests leave this section out.
+- علایق: «اجتماعی شدن»، «سینما رفتن» و «خواندن» توجه استخدام‌کنندگان را جلب نمی‌کند. با این حال، علایق مرتبط می توانند تصویر کامل تری از شخصیت شما ارائه دهند و همچنین به شما چیزی برای صحبت در مصاحبه ارائه دهند. اگر می‌خواهید روزنامه‌نگار شوید، به‌عنوان مثال می‌توان به نوشتن وبلاگ یا خبرنامه‌های اجتماعی خود، عضویت در یک گروه نمایشی، اگر به‌دنبال ورود به بخش فروش و مشارکت در فعالیت‌های مربوط به تغییرات آب و هوایی است، اگر می‌خواهید یک شغل محیط زیستی داشته باشید. اگر هیچ سرگرمی یا علایق مرتبطی ندارید، این بخش را کنار بگذارید.

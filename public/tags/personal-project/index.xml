@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal-project on </title>
+    <link>/tags/personal-project/</link>
+    <description>Recent content in personal-project on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language><atom:link href="/tags/personal-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>can i build UI of zarinpal.com ?</title>
+      <link>/posts/zarinpal-creatin-front-end-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/zarinpal-creatin-front-end-algorithm/</guid>
+      <description>This website is prepared using only css, html and it does not display well on other devices less than 1000 px. In the first stage of building this website, it is only for practicing and reviewing the learned skills, naming the classes and elements of the home project. page The Zarin Pal site is named with patience.
+This project has not yet been completed and unveiled, which should include:
+ home page login page developer page  OK, and the structure of the project directories is as follows:</description>
+    </item>
+    
+  </channel>
+</rss>

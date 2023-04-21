@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello world, My name is Mehran Alam Beigi on Mehran Alam Beigi</title>
+    <title>سلام دنیا! میدونید من کیم؟ on </title>
     <link>/</link>
-    <description>Recent content in Hello world, My name is Mehran Alam Beigi on Mehran Alam Beigi</description>
+    <description>Recent content in سلام دنیا! میدونید من کیم؟ on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>fa-ir</language>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>/about/</link>
+      <title>سینگولاریتی چیست؟</title>
+      <link>/posts/what-is-singularity/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-singularity/</guid>
+      <description>تکینگی یا سینگولاریتی چیست؟ از زمانی که دانشمندان برای اولین بار وجود سیاهچاله‌ها را در جهان ما کشف کردند، همه ما به این فکر کرده‌ایم که چه چیزی می‌تواند فراتر از حجاب آن خلأ وحشتناک وجود داشته باشد؟ علاوه بر این، از زمانی که نظریه نسبیت عام برای اولین بار مطرح شد، دانشمندان مجبور به این سوال بودند که چه چیزی می‌توانست قبل از تولد کیهان وجود داشته باشد، یعنی قبل از انفجار بزرگ؟</description>
+    </item>
+    
+    <item>
+      <title>ساخت ظاهری یا UI سرویس مالی بلو‌بانک</title>
+      <link>/posts/blubank-cloning-frontend-algorithm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>why build this mehran ? A software engineer who, by combining it with medical engineering, is going to do relatively big things.
-This website is not intended to be a training course or to teach anything. Here we are going to learn the intersection of science and art and their integration.
-I am a bachelor of medical engineering. I try to prepare at least some content for this website every day.</description>
+      <guid>/posts/blubank-cloning-frontend-algorithm/</guid>
+      <description>این وب سایت فقط با استفاده از css، html تهیه شده است و در سایر دستگاه های کمتر از 1000 پیکسل به خوبی نمایش داده نمی شود. در مرحله اول ساخت این وب سایت فقط برای تمرین و مرور مهارت های آموخته شده، نامگذاری کلاس ها و عناصر پروژه خانه می باشد. صفحه سایت زرین پال با صبر نامگذاری شده است.
+این پروژه هنوز تکمیل و رونمایی نشده است که باید شامل:</description>
+    </item>
+    
+    <item>
+      <title>ساخت ظاهری یا UI سرویس مالی زرین‌پال</title>
+      <link>/posts/zarinpal-creatin-front-end-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/zarinpal-creatin-front-end-algorithm/</guid>
+      <description>این وب سایت فقط با استفاده از css، html تهیه شده است و در سایر دستگاه های کمتر از 1000 پیکسل به خوبی نمایش داده نمی شود. در مرحله اول ساخت این وب سایت فقط برای تمرین و مرور مهارت های آموخته شده، نامگذاری کلاس ها و عناصر پروژه خانه می باشد. صفحه سایت زرین پال با صبر نامگذاری شده است.
+این پروژه هنوز تکمیل و رونمایی نشده است که باید شامل:</description>
+    </item>
+    
+    <item>
+      <title>نحوه نوشتن نرم افزار با علوم ریاضی</title>
+      <link>/posts/how-to-write-software-with-mathematical-perfection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-write-software-with-mathematical-perfection/</guid>
+      <description>eslie Lamport ممکن است نام آشنای نباشد، اما او پشت تعدادی از آنها برای دانشمندان کامپیوتر است: برنامه حروفچینی LaTeX و کاری که زیرساخت ابری را در گوگل و آمازون ممکن کرد. او همچنین توجه بیشتری را به چند مسئله معطوف کرد و نام‌های متمایزی مانند الگوریتم نانوایی و مسئله ژنرال‌های بیزانسی به آن‌ها داد. این تصادفی نیست دانشمند کامپیوتر 81 ساله به طور غیرعادی در مورد نحوه استفاده و تفکر مردم در مورد نرم افزار فکر می کند.</description>
+    </item>
+    
+    <item>
+      <title>چگونه یک رزومه عالی بسازیم?</title>
+      <link>/posts/how-to-build-good-cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-build-good-cv/</guid>
+      <description>CV چیست؟ CV که مخفف رزومه تحصیلی است، مدرکی است که هنگام درخواست شغل استفاده می شود. این به شما امکان می دهد تحصیلات، مهارت ها و تجربیات خود را خلاصه کنید تا بتوانید توانایی های خود را با موفقیت به کارفرمایان بالقوه بفروشید. در کنار رزومه شما، کارفرمایان معمولاً یک نامه پوششی نیز می خواهند.
+در ایالات متحده و کانادا رزومه ها به عنوان رزومه شناخته می شوند. این اسناد معمولاً مختصرتر هستند و از قوانین قالب بندی خاصی پیروی نمی کنند.</description>
     </item>
     
   </channel>

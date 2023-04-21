@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>برنامه نویسی on </title>
+    <link>/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</link>
+    <description>Recent content in برنامه نویسی on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language><atom:link href="/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ساخت ظاهری یا UI سرویس مالی بلو‌بانک</title>
+      <link>/posts/blubank-cloning-frontend-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/blubank-cloning-frontend-algorithm/</guid>
+      <description>این وب سایت فقط با استفاده از css، html تهیه شده است و در سایر دستگاه های کمتر از 1000 پیکسل به خوبی نمایش داده نمی شود. در مرحله اول ساخت این وب سایت فقط برای تمرین و مرور مهارت های آموخته شده، نامگذاری کلاس ها و عناصر پروژه خانه می باشد. صفحه سایت زرین پال با صبر نامگذاری شده است.
+این پروژه هنوز تکمیل و رونمایی نشده است که باید شامل:</description>
+    </item>
+    
+  </channel>
+</rss>

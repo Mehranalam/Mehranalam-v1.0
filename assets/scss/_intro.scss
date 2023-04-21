@@ -95,3 +95,9 @@
   font-weight: bold;
   padding: 7px;
 }
+
+.shell {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on </title>
+    <link>/tags/technology/</link>
+    <description>Recent content in technology on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language><atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Write Software With Mathematical Perfection</title>
+      <link>/posts/how-to-write-software-with-mathematical-perfection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-write-software-with-mathematical-perfection/</guid>
+      <description>eslie Lamport may not be a household name, but he’s behind a few of them for computer scientists: the typesetting program LaTeX and the work that made cloud infrastructure at Google and Amazon possible. He’s also brought more attention to a handful of problems, giving them distinctive names like the bakery algorithm and the Byzantine Generals Problem. This is no accident. The 81-year-old computer scientist is unusually thoughtful about how people use and think about software.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,14 +3,14 @@
     <div class="diva">
       <div class="rowC">
         <i class="icon-mehranalam"></i>
-        <h2> مهران علم بیگی</h2>
+        <h2>Mehranalambeigi-V1.0</h2>
       </div>
       <ul>
-        <li> <router-link  to="/"> خانه</router-link></li>
-        <li> <router-link  to="/demo"> رزومه</router-link></li>
-        <li> <router-link  to="/demo"> پروژه ها</router-link></li>
-        <li> <router-link  to="/demo"> درخواست پروژه</router-link></li>
-        <li> <router-link  to="/demo"> تیکه کد</router-link></li>
+        <li> <router-link  to="/"> home</router-link></li>
+        <li> <router-link  to="/demo"> resume</router-link></li>
+        <li> <router-link  to="/demo">Projects</router-link></li>
+        <li> <router-link  to="/demo">project request</router-link></li>
+        <li> <router-link  to="/demo">code part</router-link></li>
       </ul>
     </div>
 

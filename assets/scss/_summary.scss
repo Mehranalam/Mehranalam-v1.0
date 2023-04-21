@@ -2,6 +2,7 @@
   margin-bottom: 50px;
   font-size: 18px;
   line-height: 24px;
+  direction: rtl;
   @include breakpoint('small') {
     margin-bottom: 80px;
     font-size: 18px;
@@ -12,7 +13,7 @@
     color: var(--heading-color);
   }
   .summary-title {
-    margin: 16px 0 16px 0;
+    text-align: right;
     width: 80%;
     font-size: 34px;
     line-height: 38px;

@@ -1,9 +1,9 @@
 ---
-title: "Blog"
-date: 2019-02-24
+title: "وبلاگ"
+date: اردیبهشت ۱۴۰۲
 menu:
   main:
-    name: "Blog"
+    name: "بلاگ"
     weight: 2
 ---
 

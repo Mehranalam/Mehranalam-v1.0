@@ -1,7 +1,17 @@
+@font-face {
+  font-family: IRANYEKANblack;
+  src: url("/Fonts/IranYekan/WebFonts/fonts/woff/IRANYekanWebBlack.woff");
+}
+
+@font-face {
+  font-family: IRANYEKANmedium;
+  src: url("/Fonts/IranYekan/WebFonts/fonts/woff/IRANYekanWebMedium.woff");
+}
+
 :root {
-  --font-family-heading: 'Poppins', sans-serif;
-  --font-family-paragraph: Helvetica, sans-serif;
-  --font-family-monospace: monospace;
+  --font-family-heading: IRANYEKANblack;
+  --font-family-paragraph: IRANYEKANmedium;
+  --font-family-monospace: IRANYEKANmedium;
   --base-color: {{ .Site.Params.baseColor | default "#ffffff" }};
   --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
   --highlight-color: {{ .Site.Params.highlightColor | default "#7b16ff" }};

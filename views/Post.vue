@@ -9,15 +9,15 @@
     <div class="boxify">
       <div class="intro">
         <i class="icon-bell"></i>
-        <p>انتشار در : {{ publishedDay }}</p>
+        <p>publishedDay: {{ publishedDay }}</p>
       </div>
       <div class="intro">
         <i class="icon-archive"></i>
-        <p>دسته بندی : {{ categories }}</p>
+        <p>categories: {{ categories }}</p>
       </div>
       <div class="intro">
         <i class="icon-edit"></i>
-        <p>نویسنده : {{ Auther }}</p>
+        <p>Auther : {{ Auther }}</p>
       </div>
     </div>
     <div class="content">

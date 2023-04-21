@@ -14,8 +14,7 @@
 
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
-
-<ul class="pagination">
+<ul class="pagination" dir="rtl">
 
   <!-- First page. -->
   {{ if ne $paginator.PageNumber 1 }}
@@ -68,7 +67,8 @@
   <!-- Middle pages. -->
   {{ else }}
 
-  {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
+  {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber
+  $adjacent_links) ) }}
   {{ $.Scratch.Set "page_number_flag" true }}
   {{ end }}
 

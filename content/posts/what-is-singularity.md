@@ -1,20 +1,20 @@
 ---
-title: what is Singularity?
+title: سینگولاریتی چیست؟
 date: 2023-03-31
-description: One of the prominent and interesting theories of Stephen Hawking is about the singularity, an interesting and thought-provoking theory at the same time.
+description: یکی از نظریه های برجسته و جالب استیون هاوکینگ در مورد تکینگی است، نظریه ای جالب و در عین حال قابل تامل.
 image: images/Singularity.jpg
 tags:
-   - hawking
-   - physics 
-   - theory
+   - استیون‌هاوکینگ
+   - فیزیک 
+   - تئوری
 ---
 
-What Is A Singularity?
+## تکینگی یا سینگولاریتی چیست؟
 
-Ever since scientists first discovered the existence of black holes in our universe, we have all wondered: what could possibly exist beyond the veil of that terrible void? In addition, ever since the theory of General Relativity was first proposed, scientists have been forced to wonder, what could have existed before the birth of the Universe – i.e. before the Big Bang?
+از زمانی که دانشمندان برای اولین بار وجود سیاهچاله‌ها را در جهان ما کشف کردند، همه ما به این فکر کرده‌ایم که چه چیزی می‌تواند فراتر از حجاب آن خلأ وحشتناک وجود داشته باشد؟ علاوه بر این، از زمانی که نظریه نسبیت عام برای اولین بار مطرح شد، دانشمندان مجبور به این سوال بودند که چه چیزی می‌توانست قبل از تولد کیهان وجود داشته باشد، یعنی قبل از انفجار بزرگ؟
 
-Interestingly enough, these two questions have come to be resolved (after a fashion) with the theoretical existence of something known as a Gravitational Singularity – a point in space-time where the laws of physics as we know them break down. And while there remain challenges and unresolved issues about this theory, many scientists believe that beneath veil of an event horizon, and at the beginning of the Universe, this was what existed.
+به اندازه کافی جالب، این دو سوال با وجود نظری چیزی که به عنوان تکینگی گرانشی شناخته می شود حل شده اند - نقطه ای در فضا-زمان که در آن قوانین فیزیک همانطور که می شناسیم در هم می شکند. و در حالی که چالش ها و مسائل حل نشده ای در مورد این نظریه وجود دارد، بسیاری از دانشمندان بر این باورند که در زیر پرده افق رویداد، و در آغاز جهان، این چیزی بود که وجود داشت.
 
 <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam-v1.0/master/static/images/history.bigbang.jpg">
 
-Another aspect of modern General Relativity is that at the time of the Big Bang (i.e. the initial state of the Universe) was a singularity. Roger Penrose and Stephen Hawking both developed theories that attempted to answer how gravitation could produce singularities, which eventually merged together to be known as the Penrose–Hawking Singularity Theorems.
+جنبه دیگر نسبیت عام مدرن این است که در زمان بیگ بنگ (یعنی حالت اولیه کیهان) یک تکینگی بود. راجر پنروز و استیون هاوکینگ هر دو نظریه‌هایی را توسعه دادند که سعی در پاسخگویی به چگونگی ایجاد تکینگی توسط گرانش داشتند که در نهایت با هم ادغام شدند و به عنوان قضایای تکینگی پنروز-هاوکینگ شناخته شدند.

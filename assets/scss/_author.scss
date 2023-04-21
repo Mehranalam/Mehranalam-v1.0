@@ -2,6 +2,7 @@
   margin-top: 30px;
   margin-bottom: 30px;
   color: var(--heading-color);
+
   img {
     width: 30px;
     height: 30px;
@@ -10,31 +11,56 @@
     vertical-align: middle;
     border: 2px solid var(--heading-color);
   }
+
   .author-name {
     display: inline-block;
     vertical-align: middle;
     font-weight: bold;
     margin-left: 5px;
   }
+
   .author-date {
     display: inline-block;
     vertical-align: middle;
   }
 }
+
 .author-large {
   font-size: 20px;
+
   img {
     width: 50px;
     height: 50px;
   }
+
   .author-name {
     display: inline-block;
     vertical-align: middle;
     font-weight: bold;
     margin-left: 5px;
   }
+
   .author-title {
     display: inline-block;
     vertical-align: middle;
   }
+}
+
+.logo {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: var(--heading-color);
+}
+
+.logo img {
+  display: inline-block;
+  vertical-align: middle;
+  fill: palevioletred;
+}
+
+.shilder {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+  margin-left: 5px;
 }

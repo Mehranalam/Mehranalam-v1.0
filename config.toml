@@ -1,6 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "Mehran Alam Beigi"
+languageCode = "fa-ir"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -13,10 +12,10 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@Mehranalambeigi"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = true
-  showPostsOnHomepage = true
+  twitter_handle = "@motzarte"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
   addDot = true
   addFrame = false
   highlightColor = '#7b16ff'
@@ -26,22 +25,21 @@ pygmentsUseClasses = true
   textColor = "#4e5157"
   dotColor = "#7b16ff"
 
-# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = false
       unsafe = true
-      xhtml = false
+      xhtml = true
 
 [menu]
   [[menu.main]]
     identifier = 'home'
-    name = 'Home'
+    name = 'خانه'
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Tags"
+    name = "تگ‌ها"
     identifier = "tags"
     weight = 300
     url = "/tags/"

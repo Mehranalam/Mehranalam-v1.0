@@ -1,39 +1,37 @@
 ---
 
-title: build UI of blubank website home page
+title: ساخت ظاهری یا UI سرویس مالی بلو‌بانک
 
-date: 2023-04-2
+date: ۱۴۰۳
 
-description: Creating the external UI of the blu service site on the thirteenth day of Badr and checking the logic code and base code of this project.
+description: ساخت UI خارجی سایت بلو سرویس در روز سیزدهم بدر و بررسی کد منطقی و کد پایه این پروژه.
 
 image: images/شبیه سازی سایت زرین پال (2).png
 
 tags:
 
-   - computer
+   - کامپیوتر
 
-   - personal-project
+   - پروژه های شخصی
 
-   - programming
+   - برنامه نویسی
 
 ---
 
-This website is prepared using only css, html and it does not display well on other devices less than 1000 px. In the first stage of building this website, it is only for practicing and reviewing the learned skills, naming the classes and elements of the home project. page The Zarin Pal site is named with patience.
+این وب سایت فقط با استفاده از css، html تهیه شده است و در سایر دستگاه های کمتر از 1000 پیکسل به خوبی نمایش داده نمی شود. در مرحله اول ساخت این وب سایت فقط برای تمرین و مرور مهارت های آموخته شده، نامگذاری کلاس ها و عناصر پروژه خانه می باشد. صفحه سایت زرین پال با صبر نامگذاری شده است.
 
-This project has not yet been completed and unveiled, which should include:
+این پروژه هنوز تکمیل و رونمایی نشده است که باید شامل:
 
-- [ ] home page
-
-OK, and the structure of the project directories is as follows:
+- [ ] صفحه نخست
 
 
-- source code : https://github.com/Mehranalam/blu-cloning/
+- سورس‌کد: https://github.com/Mehranalam/blu-cloning/
 
-- techologhy for building this : HTML, CSS
+- تکنولوژی های بکار گرفته شده : HTML, CSS
 
-- software: visual studio code, linux, chrome
+- نرم‌افزار های مورد استفاده: visual studio code, linux, chrome
 
-## Output in 02.04.2023 :
+## نمایش خروجی در 02.04.2023 :
 
 <img src="https://raw.githubusercontent.com/Mehranalam/blu-cloning/0ae9a856494ab87daa6e6420eed28189ce2aa248/assets/2023-04-03-224042_1366x768_scrot.png?token=GHSAT0AAAAAAB5RARVKD34IEIYL34SF2HH6ZBLFEJA">
 

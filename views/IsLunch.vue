@@ -1,6 +1,6 @@
 <template>
   <div align="center">
-    <h3> این بخش از سایت در دست ساخت است</h3>
+    <h3>Inprossecc!!</h3>
     <i class="Vector"></i>
   </div>
 </template>

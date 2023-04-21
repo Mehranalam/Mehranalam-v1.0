@@ -1,6 +1,6 @@
 <div class='header'>
   <a class="header-logo" href="{{ .Site.Home.RelPermalink }}">
-    Mehr`an
+    {{ partial "header-title.html" . }}
   </a>
   <div class="menu-main">
     <ul>
@@ -11,7 +11,7 @@
       <li class="menu-item-{{ .Name | lower }} {{ if $active }}active{{ end }}">
         <a href="{{.URL}}">
           {{ .Pre }}
-          <span>{{ .Name }}</span>
+          <span>{{.Name}}</span>
         </a>
       </li>
       {{end}}

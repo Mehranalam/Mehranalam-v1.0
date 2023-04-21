@@ -1,23 +1,23 @@
 ---
-title: can i build UI of zarinpal.com ?
+title:  ساخت ظاهری یا UI سرویس مالی زرین‌پال
 date: 2023-04-2
-description: Creating the external UI of the zarinpal service site on the thirteenth day of Badr and checking the logic code and base code of this project.
+description: ساخت UI خارجی سایت خدمات زرین پال در روز سیزده بدر و بررسی کد منطقی و کد پایه این پروژه.
 image: images/شبیه سازی سایت زرین پال.png
 tags:
-   - computer
-   - personal-project
-   - programming
+   - کامپیوتر
+   - پروژه های شخصی
+   - برنامه‌نویسی
 ---
 
-This website is prepared using only css, html and it does not display well on other devices less than 1000 px. In the first stage of building this website, it is only for practicing and reviewing the learned skills, naming the classes and elements of the home project. page The Zarin Pal site is named with patience.
+این وب سایت فقط با استفاده از css، html تهیه شده است و در سایر دستگاه های کمتر از 1000 پیکسل به خوبی نمایش داده نمی شود. در مرحله اول ساخت این وب سایت فقط برای تمرین و مرور مهارت های آموخته شده، نامگذاری کلاس ها و عناصر پروژه خانه می باشد. صفحه سایت زرین پال با صبر نامگذاری شده است.
 
-This project has not yet been completed and unveiled, which should include:
+این پروژه هنوز تکمیل و رونمایی نشده است که باید شامل:
 
-- [ ] home page
-- [ ] login page
-- [ ] developer page
+- [ ] صفحه نخست
+- [ ] صفحه ورود
+- [ ] صفحه توسعه دهنده
 
-OK, and the structure of the project directories is as follows:
+خوب، و ساختار دایرکتوری های پروژه به شرح زیر است:
 
 
 ```java
@@ -41,11 +41,11 @@ OK, and the structure of the project directories is as follows:
 ```
 
 
-- source code : https://github.com/Mehranalam/Zarinpal-cloning/
-- techologhy for building this : HTML, CSS
-- software: visual studio code, linux, chrome
+- سورس‌کد : https://github.com/Mehranalam/Zarinpal-cloning/
+- تکنولوژی های بکار گرفته شده : HTML, CSS
+- نرم‌افزار های مورد استفاده: visual studio code, linux, chrome
 
-## Output in 02.04.2023 :
+## خروجی در 02.04.2023 :
 
 <img src="https://raw.githubusercontent.com/Mehranalam/Zarinpal-cloning/main/assets/2023-04-02-201120_1366x768_scrot.png">
 <img src="https://raw.githubusercontent.com/Mehranalam/Zarinpal-cloning/main/assets/2023-04-02-201128_1366x768_scrot.png">
