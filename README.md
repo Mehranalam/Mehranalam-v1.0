@@ -8,7 +8,7 @@ content generator.json :
 "about-me" : {
     "id": "45AB2023",
     "categories" : "public",
-    "publishedDay": "septhember",
+    "publishedDay": "september",
     "Auther":"Mehran Alam Beigi",
     "url":"https://mehranalam.github.io/Mehranalam-v1.0/{ auto generate }",
     "mainTitle": "Hello World!",
