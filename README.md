@@ -1,4 +1,6 @@
-### [Mehranalam-V1.0](https://mehranalam.github.io/Mehranalam-v1.0/) - Content .MD Generator. 
+### [Mehranalam-V1.0](https://mehranalam.github.io/Mehranalam-v1.0/) - Content .MD Generator. [![Deploy Hugo site to Pages](https://github.com/Mehranalam/Mehranalam-v1.0/actions/workflows/hugo.yml/badge.svg)](https://github.com/Mehranalam/Mehranalam-v1.0/actions/workflows/hugo.yml)
+------
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 ----
 
