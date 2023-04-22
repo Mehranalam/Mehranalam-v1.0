@@ -25,3 +25,4 @@ Todo :
 
 - [ ] Add python script for get RSS feed and show on readme.md.
 - [ ] Transfer from github.io >> Mehranalam.ir
+- [ ] Use some else from this special theme and maintaining on Hu**go**. 
