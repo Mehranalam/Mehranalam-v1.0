@@ -1,11 +1,11 @@
 ### [Mehranalam-V1.0](https://mehranalam.github.io/Mehranalam-v1.0/) - Content .MD Generator. [![Deploy Hugo site to Pages](https://github.com/Mehranalam/Mehranalam-v1.0/actions/workflows/hugo.yml/badge.svg)](https://github.com/Mehranalam/Mehranalam-v1.0/actions/workflows/hugo.yml)
 ------
+#### A review of the sophistry - the truth of change
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-----
+I will publish manuscripts from my studies under the title of history, a review of the events and revolutions of Iran. To keep it as a memory...below each handwriting you will see the date of publication and then my name, and next to it the link to download my resume, probably there is no connection between the date and my resume, but still, I took the opportunity to get to know me, probably my handwriting are not focused on the history of Iran, but there is a possibility that we will talk about the artistic revolution, the events of Europe and even philosophy. We did it and I put a summary of the book I read. Nothing can be predicted. In the end, most of the content will be published on the Telegram channel after being published on this blog - @abit_think
 
-<img src="/SS/intro.png">
-<img src="/SS/Screenshot%20from%202023-04-22%2010-45-15.png">
+It is suggested to read the manuscripts with one of the musics of Kahan Kahler or works by Bach
+
 
 content generator.json :
 
