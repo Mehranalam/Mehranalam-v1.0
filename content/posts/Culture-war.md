@@ -6,7 +6,7 @@ date: ۱۴۰۲-۰۳-۴
 
 description: در دورانی از تاریخ ایران قرار داریم که حجمه های فرهنگی و خفقان هنری زیادی بر موسیقی ایران حاکم است
 
-image: images/1024px-Banan2.jpg
+image: images/sohrab.jpg
 
 tags:
 
