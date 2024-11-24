@@ -13,8 +13,8 @@ pygmentsUseClasses = true
 [params]
   google_analytics_id = ""
   twitter_handle = "@motzarte"
-  showAuthorOnHomepage = false
-  showAuthorOnPosts = false
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = true
   showPostsOnHomepage = true
   addDot = true
   addFrame = false
